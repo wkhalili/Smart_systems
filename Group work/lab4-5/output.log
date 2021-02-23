@@ -1,0 +1,22 @@
+2020-05-29 15:57:02,230 - INFO - Consumer 3 started
+2020-05-29 15:58:35,469 - INFO - Warning: Moving to fast now
+2020-05-29 15:58:39,413 - INFO - Move rightShoulder complete in 11.182 sec
+2020-05-29 15:58:39,413 - INFO - Moves left:  0
+2020-05-29 15:58:39,414 - INFO - Moves right: 1
+2020-05-29 15:59:14,631 - INFO - Warning: Executed excercise to slow
+2020-05-29 15:59:14,943 - INFO - Move rightShoulder complete in 31.073 sec
+2020-05-29 15:59:14,943 - INFO - Moves left:  0
+2020-05-29 15:59:14,944 - INFO - Moves right: 2
+2020-05-29 15:59:19,948 - INFO - Warning: Moving to fast now
+2020-05-29 15:59:20,555 - INFO - Warning: Detection score to low
+2020-05-29 15:59:21,155 - INFO - Warning: Detection score to low
+2020-05-29 15:59:21,938 - INFO - Warning: Detection score to low
+2020-05-29 15:59:22,583 - INFO - Warning: Detection score to low
+2020-05-29 15:59:23,285 - INFO - Warning: Detection score to low
+2020-05-29 15:59:26,188 - INFO - Warning: Detection score to low
+2020-05-29 15:59:27,634 - INFO - Warning: Detection score to low
+2020-05-29 15:59:35,288 - INFO - Warning: Moving to fast now
+2020-05-29 15:59:41,476 - INFO - Warning: Moving to fast now
+2020-05-29 15:59:47,430 - INFO - Move leftShoulder complete in 12.234 sec
+2020-05-29 15:59:47,431 - INFO - Moves left:  1
+2020-05-29 15:59:47,431 - INFO - Moves right: 2
